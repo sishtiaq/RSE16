@@ -25,7 +25,7 @@ happier.
 
 # Me
 - 5', 10'
-- Start with my Bio: work, home. 
+- Start with my Bio: work, home. What makes me happy, unhappy? 
 - The one thing you'll come away with: a menu of Actions to make you happier. 
 
 # Here & Now
@@ -33,10 +33,12 @@ happier.
 ## Who's Happy now?
 - Why have you signed up?
 - If you are happy, why are you happy? Do you feel Valued? Useful? Busy?
+- If you're happy, maybe you can think of a way to change your situation. 
+- Happy when work is going well.
 - Maybe you don't want to be happy? "Refusal to win"
 - Take away: you each will have a small list of actions you can take to make you happier. 
 
-## Do you want to be here? 
+## Do you want to be a RSE? 
 - Are you a failed researcher? Or you wanted to be an engineer from the start?
 - What's your motivation?
 - Good Things -> Optimist, or Optimist->GoodThings? Our attitude to the situation.
@@ -78,26 +80,37 @@ happier.
 - RSEs value wrt Researchers
 - RSEs as "resources"
 
+
+## Travel
+- SI: train+tube in London. Bike in Cambridge. Now Bike or Walk. Shorter, not necessarity better.
+  - But no judgement here, no blame. First World Problem. 
+- AS story. Swapped from car to train. "My family says that I'm far less grumpy". IT guy, so pretty grumpy at best of times.
+- Walk > Bike > Train > Car.
+
 # Work (holistic)
 
 ## Your work
-- work with others. Might not always be possible. 
- - Ask about their team sizes.
+- work with others. Work with others outside your lab. (Might not always be possible.)
+ - AudienceSurvey: Ask about their team sizes.
  - work with others of wide backgrounds (not necessarily coders)
 - work on something useful. Prob will be the case here.
+- Work on cool things.
 - Work on open source. ditto.
 - Work on things that matter. 
- - Ignore or automate dull things. 
+ - Ignore or automate dull things like infrastructure. 
 - Flexible work: from home, Part time work.
 - Several projects on the go at once:
  - SLAyer and BMA. Had to split the week in the end. 
 - How is your performance judged? Bugs fixed, SW produced, papers authored.
+- Commercialization of your work
+
 
 ## Learn something new
 - Conflict between your Project Manager and You.
 - Find a place where you can learn something new. Me: schannel server in C++.
 - Using current, different, cool tech. 
 - Mentor. Your mentor; you a mentor to others. 
+- Do different things, different types of projects (APT).
 
 ## Your pay
 - Happy with your current pay? Do you know you are being paid equally (gender, race)? 
@@ -105,13 +118,14 @@ happier.
   long time ago. Now they get paid for algorithms they didn't 
   invent, running on data they didn't collect."
 - vs a Bank.
-- How much is enough? Can you downshift for more happiness? Move to Thailand?
-- AudienceSurvey: anonymous survey, put postit note into box, your salary rounded to 5K.  
+- How much is enough?Can you downshift for more happiness? Move to Thailand?
+- AudienceSurvey: anonymous survey, put postit note into box, your salary rounded to 10K.  
 - free things (cake, t-shirts, lunch) make us happy
 
 ## Your career
 - Do you have one? Do you want one? Do you stumble from project to project?
 - Opportunities: manage other RSEs, Senior & Principal RSE; vs SDE in a product company.
+ - Transition to Researcher
 
 ## Getting Things Done
 - ToDo lists and systems: GTD, Productivity Ninja, outlook calender.
@@ -149,15 +163,6 @@ happier.
 - "It's Not if you get injured, it's when you do" Coach Sommer. SLS mobility drills.
 - Nicholas Taleb's Anti-Fragility. Ido Portal application to movement. 
 
-
-# Travel
-
-- SI: train+tube in London. Bike in Cambridge. Now Bike or Walk. Shorter, not necessarity better.
-  - But no judgement, no blame. First World Problem. 
-
-- AS story. Swapped from car to train. "My family says that I'm far less grumpy". IT guy, so pretty grumpy at best of times.
-
-- Walk > Bike > Train > Car.
 
 
 # Priorities
