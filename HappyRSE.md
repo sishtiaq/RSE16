@@ -3,18 +3,25 @@
 
 I don't want to just talk at the front of the room. 
 
-I don't have the answers. We all want to hear what everyone has to say. 
+I don't have the answers. We all want/need to hear what everyone has to say. 
+
+Drink+snacks. Need some food, etc to relax people. ???
 
 I will introduce each Section. We'll workshop each one; the workshops will report back.
-[In serial or in parallel? We could give each Bucket Topic to one group, another Topic to another.]
+
+I’m going to talk for 5min about myself, and about the session. I’ll introduce the Topics (Here&Now, Work, Work 2, Life, Priorities). My notes contain the sub-topics and some answers to the issues in these Topics but I won’t be showing them that. I’ll say that I want them to: analyze (moan, dump luggage); discuss; and then come up with actions to issues on these Topics. 
+
+There will be a station (flipboard chart, table with A0 paper) in each corner of the room. I’ll send 20% to each station. They have 10mins to analyze, and then 10mins to come up constructive ideas. I’ll ring a buzzer at each 10min.
+20min at their station in total. 
+
+Then they are random shuffled and sent to a different station. Repeat analyze/dump.
+
+Once everyone’s done a few stations, the stations get to report back to everyone. 
+
 We will then wonder amongst the Groups, we will all write down concrete actions on their Posters that will make us happier.  
 So, everyone will go away with a small list of things they can change to make themselves 
 happier. 
 
-Drink+snacks. Need some food, etc to relax people. ???
-
-Equipment and room structure. Projector in the front; 
-Tables with A0 paper; chairs around the room. 
 
 # Me
 - 5', 10'
