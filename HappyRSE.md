@@ -65,6 +65,7 @@ happier.
  - the effect of the hierarchy is inevitable
 - What happens when your new manager has no idea how to manage? Parkinson's Law.
 - Matrix Management: pluses and pitfalls. ARM, MSRC. 
+- JB's deal: JB will watch out for me; JB will try and give me work that makes me happy 3/4 of the time.
 
 ## Your project
 - how do you join a Project?
