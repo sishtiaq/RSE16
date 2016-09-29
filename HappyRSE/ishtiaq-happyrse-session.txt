@@ -37,13 +37,21 @@ concrete actions on their Posters that will make us happier.  So,
 everyone will go away with a small list of things they can change to
 make themselves happier.
 
-
-# Me
+## Me
 - 5', 10'
 - Start with my Bio: work, home. What makes me happy, unhappy? 
 - The one thing you'll come away with: a menu of Actions to make you happier. 
 
+## Slide
+
+Not me talking. you/we have answers.
+topics, topic/station. unload/reload. mv && !!. Report back. Menu. 
+
 # Here & Now
+
+## Slide
+
+Why are you here? Who's happy, unhappy now? Why? Did you want to be an RSE?
 
 ## Who's Happy now?
 - Why have you signed up?
@@ -84,6 +92,10 @@ Unhappy: Role of an RSE, Uncertainty, missing feedback, lack of recognition.
 Career path unblocked by EPSRC Fellowship. A re-start, new avenues. 
 
 # Work
+
+## Slide
+
+Your researcher and you, Your manager (JB Deal). Your project. Your HoD. Travel. 
 
 ## Your Researcher and you
 - Perfect is the enemy of the good. Researcher vs Engineer motivation. 
@@ -158,6 +170,11 @@ Unique & critical special role.
 Be part of community (conference). 
 
 # Work (holistic)
+
+## Slide
+
+Working with others. New/Useful/cool/OSS. Commercialization. 
+Flexible/part-time. Projects. Performance Review. Mentor. Pay. Career. GTD. RSELunches. 
 
 ## Your work
 - work with others. Work with others outside your lab. (Might not always be possible.)
@@ -245,6 +262,10 @@ Useful -> Boring -> Reached dead end.
 
 # Life
 
+## Slide
+
+Side Projects. Family. Scratch Day @ School. DadFilmClub. Allotment. Exercise/Diet/Sleep. Anti-fragility. 
+
 ## Have a Side Project
 - Could be Technical.
 - Definitely non-technical. Hobby, Allotment, Pets, Music, Sport. 
@@ -314,3 +335,20 @@ Board games.
 
 
 
+# Summaries.
+
+Being recognized and valued. "Came to the workshop to be happy
+RSE". Remember that we should epect to be happy. UKRSE. Problem
+solving. Invested.
+
+Travel makes up part of the community. Risk of brain drain. Watch out
+for imposter syndrome. Be open, claim your acheivements. Communication
+important. Management good/bad. Creative freedom. Peer review. Good
+relationship w/ manager(s) needed but difficut. Short term contracts
+bad.
+
+Good to work with good colleagues. Self pressure. 
+
+Sleep is good. But BeingInZone is better. Listen to your body. You
+choose to work, don't letwork colonize your life. You can easily get a
+job: you don't have to deal with this shit.
