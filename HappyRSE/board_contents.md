@@ -1,17 +1,3 @@
-done:
-WP_20160929_11_52_21_Pro.jpg
-WP_20160929_11_53_05_Pro.jpg
-WP_20160929_11_53_29_Pro.jpg
-WP_20160929_11_53_43_Pro.jpg
-WP_20160929_12_08_02_Pro.jpg
-WP_20160929_12_09_00_Pro.jpg
-WP_20160929_12_09_14_Pro.jpg
-WP_20160929_12_13_09_Pro.jpg
-WP_20160929_12_12_53_Pro.jpg
-WP_20160929_12_12_41_Pro.jpg
-WP_20160929_12_12_31_Pro.jpg
-WP_20160929_12_12_05_Pro.jpg
-
 # Here and Now
 
 ## happy
@@ -26,6 +12,11 @@ WP_20160929_12_12_05_Pro.jpg
 * be in control
 * being in between IT and research
 * fellowship unblocked career path
+* learn about RSEs
+  * are they happy?
+  * how have they organized into a society
+* learn how to make others happy
+* contained work hours
 
 ## unhappy
 * Role RSE
@@ -68,6 +59,32 @@ WP_20160929_12_12_05_Pro.jpg
 * team spirit
 * autonomy/lack of management
 * short term contracts
+* choose your projects(autonomy)
+* funding - short term contracts
+* low team spirit (colleagues don't do anything)
+* problems not handled
+* pressure from
+  * perfectionism
+  * inability to estimate
+* go easy on yourself
+* quick mins on todo list
+* managing expectations of ourselves & researchers
+* seperate work and home (doing work vs thinking about it)
+* exploitation of juniors
+* missing knowledge of software creation process (complexity)
+* flexible (core hours)
+  * friday morning tennis
+* communication
+  * piss poor
+  * work by myselft rather than with others
+  * adapting yourself to others 
+* underestimation of effort
+* need challenges (busy is happy)
+* need to be seen (facetime is important)
+* like minded collegues as company
+* subject specific cross regional networking would be good
+* entusiastic clients 😀
+
 
 # Life
 
@@ -86,9 +103,25 @@ WP_20160929_12_12_05_Pro.jpg
 * coder dojo
 * seminars
 * part time (family) is difficult (lack of support)
-* relaxing with/without computer
+* relaxing with/without computer (relax the brain)
 * open source community engagement
 * leaving comfort zone
+* don't let work colonise your life
+* being employable, job freedom
+* boundaries
+* side projects as an escape route from feeling stuck/depressed
+  * allowing self free choice
+  * sense of achievment
+* meditation/mindfulness
+* some people  need lots of non-computer activities
+* focus on other people
+* varied networks of people (diff perspectives)
+* flexibility, stability, autonomy (triangle relationship)
+* keep body happy
+
+   
+
+
 
 =============
 * others taking/not sharing
@@ -96,3 +129,4 @@ WP_20160929_12_12_05_Pro.jpg
 * clarify in your roles in your team
 * might be working on core, but not used/useful
 * useful -> boring -> niched -> dead end
+
