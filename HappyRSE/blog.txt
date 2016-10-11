@@ -1,15 +1,33 @@
 
 
+# Apology
+
+You don't begin a talk by apologizing, but I will begin this article
+by saying sorry to the RSE organizers. I'm sorry that our session
+overran by 20mins. I'm sorry that everyone was so intensely occupied
+with talking that I couldn't interrupt to stop them and move them on
+the next activity. I'm sorry that the conference had to end later than
+planned. And, while the train derailment wasn't my fault, I'm sorry to
+any attendees who missed their train.
+
+There, that's off my chest. Now to being happy...
+
+The first thing I want to do
+
+# Intro
+
+how it came about
+
 
 
 # Structure of session
+
+how i thought to organize it.
 
 I don't want to just talk at the front of the room. 
 
 I don't have the answers. We all want/need to hear what everyone has
 to say.
-
-Drink+snacks. Need some food, etc to relax people. ???
 
 I will introduce each Section. We'll workshop each one; the workshops
 will report back.
@@ -27,7 +45,7 @@ analyze, and then 10mins to come up constructive ideas. I'll ring a
 buzzer at each 10min.  20min at their station in total.
 
 Then they are random shuffled and sent to a different station. Repeat
-analyze/dump.
+analyze/dump. [In fact, kept in groups.]
 
 Once everyone's done a few stations, the stations get to report back
 to everyone.
@@ -368,3 +386,16 @@ Good to work with good colleagues. Self pressure.
 Sleep is good. But BeingInZone is better. Listen to your body. You
 choose to work, don't letwork colonize your life. You can easily get a
 job: you don't have to deal with this shit.
+
+
+# Thanks
+
+Zoe
+
+Ben Hall, Tom Crick.
+John Bronskill, Matthew Johnson. 
+MSRC focus group: Camilla Langdon?, Gavin Smyth, Sam Webster, Sylvan
+Clebsch, ...
+
+Help on the day: Tarek (and re-shaped how the groups would be
+organized). 
