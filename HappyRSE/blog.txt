@@ -1,23 +1,47 @@
 
 
+Be a Happy RSE
+
 # Apology
+
+I conceived, organized and ran the "Be A Happy RSE" workshop at
+RSE16. In this post, I want to tell you how I did this, what happened
+there, and maybe some ideas on what to do next. I'd be very happy to
+receive your thoughts or feedback on the session itself.
 
 You don't begin a talk by apologizing, but I will begin this article
 by saying sorry to the RSE organizers. I'm sorry that our session
-overran by 20mins. I'm sorry that everyone was so intensely occupied
-with talking that I couldn't interrupt to stop them and move them on
-the next activity. I'm sorry that the conference had to end later than
-planned. And, while the train derailment wasn't my fault, I'm sorry to
-any attendees who missed their train.
+overran. I'm sorry that everyone was talking so intensely that I
+didn't have the heart to interrupt them and move them.  I'm sorry that
+the conference had to end later than planned. And, while the train
+derailment wasn't my fault, I'm sorry to any attendees who missed
+their train.
 
-There, that's off my chest. Now to being happy...
+There, I'm happier with that off my chest. And talking of happy...
 
-The first thing I want to do
 
 # Intro
 
 how it came about
 
+I had been thinking explicitly of happiness for a few months. I had
+attended a 10-week course on Raising Teens (brilliant course, TODO
+cambs.gov.uk link, if you have a chance locally to attend something
+like this, do) recently. Lots of things that you think of as
+buzzwords, well they can be treated as buzzwords, or you can reflect
+on them more seriously, with good intension. Ideas like purpose,
+resilience, support, boundaries, praise, labels, deeds-not-doers,
+Maslow. Part of the purpose of a course like this (you find out, it's
+kind of a secret) is to think about *yourself*, not about your
+teen. What is my resilience like? Am I happy?
+
+It was a short jump from there to, while proposing FSharp+Z3 as a
+workshop to RSE16 (got rejected, boohoo!), I thought: I'm a research
+engineer, what makes me happy might also be what makes others
+happy. It was scary to think that I could jump in and talk about
+it. No, I hadn't done something like this before. But, I thought, I
+don't have answers, but maybe others do. Why not bring everyone
+together who wants to talk about it, to ... talk about it. 
 
 
 # Structure of session
@@ -388,6 +412,15 @@ choose to work, don't letwork colonize your life. You can easily get a
 job: you don't have to deal with this shit.
 
 
+# Next steps
+
+Run a similar session at RSE17.
+Run them on other occassions.
+
+Change format. Will have to experiment to see what would work, and to
+get the most out of so many people being in one place at one time. 
+
+
 # Thanks
 
 Zoe
@@ -399,3 +432,4 @@ Clebsch, ...
 
 Help on the day: Tarek (and re-shaped how the groups would be
 organized). 
+
