@@ -61,12 +61,13 @@ I talked to my wife Zoe at the dinner table a lot (we have to talk to
 each other, otherwise the dinner conversation would involve only our
 children talking about Bunny v Monkey farts). I talked to Tom Crick
 (Cardiff Met), Ben Hall (Cambridge MRC), Kenji Takeda
-(azure4research).  I showed them my notes [HappyRSE.md] and discussed
-how to run the session. In the end, I stole the format of the Raising
-Teens group work sessions: we'll split up into four groups. There will
-be four stations, each with a specific topic to talk about. A group
-per station. They will talk and take enough notes on the flipchart to
-be able to give a summary at the end. After every 10/15mins, we would
+(azure4research), John Bronskill (MSR) and Matthew Johnson (MSR). I
+showed them my notes [HappyRSE.md] and discussed how to run the
+session. In the end, I stole the format of the Raising Teens group
+work sessions: we'll split up into four groups. There will be four
+stations, each with a specific topic to talk about. A group per
+station. They will talk and take enough notes on the flipchart to be
+able to give a summary at the end. After every 10/15mins, we would
 rotate.  Right at the end of the entire session, after three
 rotations, we'd have everyone report back on their summaries.
 
@@ -83,72 +84,58 @@ I was happy that they weren't going to the C++ and go sessions that
 were being run in parallel. By making this choice for themselves, I
 said, they already realized a crucial part of the story: that being
 happy was their choice. I said that, at the end of the session, it
-would be nice if everyone could come away with a short menu of things
-they could put into action (maybe not now, maybe some time in the
-future) for them to be happier.
-
-
-
-## Me
-- 5', 10'
-- Start with my Bio: work, home. What makes me happy, unhappy? 
-- The one thing you'll come away with: a menu of Actions to make you happier. 
-
-## Slide
-
-Not me talking. you/we have answers.
-topics, topic/station. unload/reload. mv && !!. Report back. Menu. 
+would be nice if everyone could come away with a short menu of actions
+they could do (maybe now, maybe some time in the future) for them to
+be happier.
 
 # Topic 1: Here & Now
 
-## Slide
+In the Here & Now topic, I wanted to people to say why they were here,
+not as an existential question, but, literally, why didn't they go to
+the C++ session? Are they happy or unhappy now, and if so why? Did
+they want to be an RSE (maybe they were a failed researcher, maybe
+they wanted to be an engineer from the start)?
 
-Why are you here? Who's happy, unhappy now? Why? Did you want to be an RSE?
+I had thought that people would be happy if they felt they were doing
+something useful and if they were valued. I told the story of my 10yo
+son: I asked him what made him happy; He thought and said "I'm happy
+because I'm so busy".
 
-## Who's Happy now?
-- Why have you signed up?
-- If you are happy, why are you happy? Do you feel Valued? Useful?
-Busy?
-at one point our son Tariq said, what we were 
-talking about. I asked what made him happy.
+Or maybe some people didn't want to be happy? A "refusal to win", to
+borrow a phrase.
 
-- If you're happy, maybe you can think of a way to change your situation. 
-- Happy when work is going well.
-- Maybe you don't want to be happy? "Refusal to win"
-- Take away: you each will have a small list of actions you can take to make you happier. 
+The discussion brought up many useful answers to these questions. RSEs
+were generally happy.  They liked working with others, they liked
+solving problem ("tenacity" one person said), they liked what they
+were doing, they like being busy.  The vast majority of the RSEs there
+were employed by institutions that allowed them autonomy and freedom
+to be in control of their own work; they had good ("contained" one
+person said) work hours.
 
-## Do you want to be a RSE? 
-- Are you a failed researcher? Or you wanted to be an engineer from the start?
-- What's your motivation?
-- Good Things -> Optimist, or Optimist->GoodThings? Our attitude to the situation.
+For some, learning how to make others happy made them happy.
 
-## Flipchart
+Many said that the UK RSE made them happy (well done, RSE!). It gave
+them recognition of their role, their status, in their work. Several
+people seperately said that their career path was unblocked by their
+EPSRC Fellowship; that their RSE role was a re-start, opening up new
+avenues. Others (maybe more junior?) did say, on the other hand, that
+there was still uncertainty in their role, they were missing feedback,
+they had a lack of recognition.
 
-Happy: working with others, solve problems, like what we're doing, busy, UK RSE makes us happy, recognition. 
+In his keynote talk, Matthew Johnson had talked about the spectrum of
+an RSE: from SDE/dev/IT to Researcher. This is a good concept, with
+both positive and negative implications. Many people said that they
+enjoyed the dual aspects of Software Enginerring and domain expertise:
+they produce something that is used again and again: the obvious
+analogy is to a successful paper cited many times. On the other hand,
+quite a lot of journals have no need for code in publication; there is
+no recognition by journals of this work. And there might be any job
+security despite good software/ download statistics. Completely on the
+other end, an RSE might not write papers, they might only do
+releases. The analogy to a researcher was highlighted by one person
+who said: "A senior PI doesn't do research"; so what's the analogous
+role of a senior RSE?
 
-Are RSEs happy? How have they organized into a society? Would *researchers* do the same? 
-Learn how to make others happy. 
-Tencity, good lazy. 
-Contained work hours.
-Nobody mentioned startups. UK v US. Academia v Bay area v Civil Service. 
-
-No need for code in publication -> No recognition by Journals. 
-Enjoy the dual aspects of SE and domain -> result is a product which is used again. Analogy to successful paper cited over and over again. 
-Evaluation. 
-No job security despite good software/ download statistics -> brain drain -> negative feedback loop. 
-
-Autonomy. Be in control. 
-"Solving the problem"
-IT ------- researcher dichotomy.
-"Senior PI doesn't do research". What's the analogous role of a seniour RSE?
-RSE write papers, might only do releases. 
-Risk in joining a project. 
-
-Unhappy: Role of an RSE, Uncertainty, missing feedback, lack of recognition. 
-Career path unblocked by EPSRC Fellowship. A re-start, new avenues. 
-
-
-restart, new avenues. 
 
 # Work
 
@@ -428,6 +415,9 @@ Sleep is good. But BeingInZone is better. Listen to your body. You
 choose to work, don't letwork colonize your life. You can easily get a
 job: you don't have to deal with this shit.
 
+
+# Summary
+Amazing buzz at the session.
 
 # Next steps
 
