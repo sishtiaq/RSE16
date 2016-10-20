@@ -38,20 +38,41 @@ teen. What is my resilience like? Am I happy?
 It was a short jump from there to, while proposing FSharp+Z3 as a
 workshop to RSE16 (got rejected, boohoo!), I thought: I'm a research
 engineer, what makes me happy might also be what makes others
-happy. It was scary to think that I could jump in and talk about
-it. No, I hadn't done something like this before. But, I thought, I
-don't have answers, but maybe others do. Why not bring everyone
-together who wants to talk about it, to ... talk about it. 
+happy. It was a short jump but a scary one: to think that I could just
+go in and talk about being happy. No, I hadn't done something like
+this before. But, I thought, I don't have answers, but maybe others
+do. Why not bring everyone together who wants to talk about it, to
+... talk about it.
 
+I proposed the session to the RSE organizers. They said yes . But were
+concerned that cynics might sink the workshop. That it had to have a
+positive outcome.
 
 # Structure of session
 
 how i thought to organize it.
 
+I thought about how to organize for these criteria over several
+weeks. I talked to several people. I batted back and forth. I knew
+pretty much what I *didn't* want: 
 I don't want to just talk at the front of the room. 
+It woudl be boring to hear just me drown on about happiness.
+In any case, I couldn't: I didn't have all the answers. Heck, I didn't
+have any of the answers. A confession: I wanted to find out what
+worked for others. 
 
-I don't have the answers. We all want/need to hear what everyone has
+I don't have the answers. We all want/need to hear what everyone has  
 to say.
+
+I took inspiration from the Raising Teens course here. All the group
+exercises we did like this: we would be talking about, say, teenage
+needs. There might be four aspects of these needs, say, emotional,
+physical, mental, X. We would self-select into four groups, go to a
+table with an A0 page on it and scribble our ideas there. If we
+wanted, we could wander to other tables, if we had something to
+contribute to those topics too. 
+
+
 
 I will introduce each Section. We'll workshop each one; the workshops
 will report back.
