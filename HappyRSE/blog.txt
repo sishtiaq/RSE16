@@ -2,7 +2,7 @@
 
 Be a Happy RSE
 
-# Apology
+# An Apology
 
 I conceived, organized and ran the "Be A Happy RSE" workshop at
 RSE16. In this post, I want to tell you how I did this, what happened
@@ -114,7 +114,7 @@ person said) work hours.
 
 For some, learning how to make others happy made them happy.
 
-Many said that the UK RSE made them happy (well done, UK RSE!). It
+Many said that the UK RSE made them happy (good job, UK RSE!). It
 gave them recognition of their role, their status, in their work. It
 also meant that they were a part of a community that they didn't know
 existed before. Several people said that they always wanted to be an
@@ -205,10 +205,15 @@ syndrome. We often get very difficult things done, that no one else
 can do. We should be proud to claim our achievements without being
 arrogant about it. We should also encourage, amongst ourselves, an
 openness to learning more, and to admitting that there are things we
-
 don't know ... but can find out. 
 
-# Work (holistic)
+# Work 2
+
+The second Work session was more about holistic aspects of work. How
+you work, what you like working on, what do you think of your career,
+how you got things done.
+
+
 
 ## Slide
 
@@ -342,48 +347,46 @@ queue). Exercise/Diet/Sleep. Anti-fragility.
 
 Sleep/relaxation is good. For Problem perception. 
 Don't take me out of the flow/zone -> genuine joy/full control. 
-Work life balance. independence.
+
 Find your productive time. And let other poeple at theirs. 
 
-Pilates, Family, Road cycling/touring, Long holidays, Greenpower F24 car racing, Dancing, Coder Dojo, Seminars (tangential)
+Work life balance. independence.
+work + personal time. 
+Boundaries. 
+Don't let work colonise your life.
+Work/life balance important: changes at diffent times, transitions in
+balance difficult, not always your choice, working at home, part time
+positives/negatives expectations/realistic.
 salary cuts/ p/t is difficulty (family) lack of understanding/support. 
 
-Work/life balance important: changes at diffent times, transitions in balance difficult, not always your choice, working at home, part time positives/negatives expectations/realistic. 
-public engagement: science busking, soapbox science. 
-school governor
-open source community engagement
-work + personal time.
 
+Pilates, Family, Road cycling/touring, Long holidays, Greenpower F24 car racing, Dancing, Coder Dojo, Seminars (tangential)  
+ public engagement: science busking, soapbox science. 
+school governor 
+open source community engagement 
 relaxing: exercise, cooking, reading. not computer. out of comfort zone: leanring skills not commuting.
 Outside work, friends. 
 Music, art, ice skating. 
+relaxing with/without computer (relax the brain)
+Singing. 
+Videogames 
+Flying trapeze. 
+Board games.
+Some people needs lots of non-computer activities.
+Focus on other people. 
 
-relaxing with/without computer (relax the brain) 
-open source community engagement 
+Side projects as an escape route from feeling stuck/depressed. allow
+Mediation/Mindfulness.
+
+self free choice, sense of achievement.
+
+
 leaving comfort zone
-
 Flexibility/Autonomy/Stability. (Triangle relationship)
 keep body happy.
 relax your brain. 
 
-Boundaries. 
-Side projects as an escape route from feeling stuck/depressed. allow self free choice, sense of achievement. 
-Mediation/Mindfulness.
-Some people needs lots of non-computer activities.
-Focus on other people.
-Varied networks of people: diff perspectives. 
-
-Don't let work colonise your life. 
 Being employable, job freedom. 
-Singing. 
-Videogames
-Flying trapeze.
-Board games. 
-
-
-# Priorities
-- https://github.com/blog/2206-reorder-issues-within-a-milestone
-- yours vs Researchers 
 
 
 
