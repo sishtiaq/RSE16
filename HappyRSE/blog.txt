@@ -6,99 +6,88 @@ Be a Happy RSE
 
 I conceived, organized and ran the "Be A Happy RSE" workshop at
 RSE16. In this post, I want to tell you how I did this, what happened
-there, and maybe some ideas on what to do next. I'd be very happy to
+there, and share some ideas on what to do next. I'd be very happy to
 receive your thoughts or feedback on the session itself.
 
-You don't begin a talk by apologizing, but I will begin this article
-by saying sorry to the RSE organizers. I'm sorry that our session
-overran. I'm sorry that everyone was talking so intensely that I
-didn't have the heart to interrupt them and move them.  I'm sorry that
-the conference had to end later than planned. And, while the train
-derailment wasn't my fault, I'm sorry to any attendees who missed
-their train.
+Now, you're always told never to begin a talk by apologizing, but I
+will begin this article by saying sorry to the RSE organizers. I'm
+sorry that our session overran. I'm sorry that everyone was talking so
+much (and so intensely!) that I didn't have the heart to interrupt
+them and move them. I'm sorry that the conference had to end later
+than planned. And, while the train derailment wasn't my fault, I'm
+sorry to any attendees who missed their train.
 
-There, I'm happier with that off my chest. And talking of happy...
-
+There, I'm happier with that off my chest. 
 
 # Intro
-
-how it came about
 
 I had been thinking explicitly of happiness for a few months. I had
 attended a 10-week course on Raising Teens (brilliant course, TODO
 cambs.gov.uk link, if you have a chance locally to attend something
-like this, do) recently. Lots of things that you think of as
-buzzwords, well they can be treated as buzzwords, or you can reflect
-on them more seriously, with good intension. Ideas like purpose,
+like this, do) recently. Lots of things that you think of as American
+buzzwords, well they can be treated as American buzzwords, or you can
+reflect on them more seriously, with good intension. Ideas like
 resilience, support, boundaries, praise, labels, deeds-not-doers,
 Maslow. Part of the purpose of a course like this (you find out, it's
-kind of a secret) is to think about *yourself*, not about your
-teen. What is my resilience like? Am I happy?
+never said to you explicitly) is to think about *yourself*, not about
+your teen. So I had been thinking about what my resilience was like?
+Was I happy?
 
-It was a short jump from there to, while proposing FSharp+Z3 as a
-workshop to RSE16 (got rejected, boohoo!), I thought: I'm a research
-engineer, what makes me happy might also be what makes others
-happy. It was a short jump but a scary one: to think that I could just
-go in and talk about being happy. No, I hadn't done something like
-this before. But, I thought, I don't have answers, but maybe others
-do. Why not bring everyone together who wants to talk about it, to
-... talk about it.
+It was a short jump from there to, while proposing F#+Z3 as a workshop
+to RSE16 (got rejected, boohoo, I wasn't happy!), I thought: I'm a
+research engineer, what makes me happy might also be what makes others
+happy; how about I run a session on happiness for RSEs? It was a short
+jump but a scary one: to think that I could just go in and talk about
+being happy. And, no, I hadn't done anything like this before. But, I
+thought, I don't have the answers, but maybe others have some of
+them. Why not share what we have?
 
 I proposed the session to the RSE organizers. They said yes . But were
-concerned that cynics might sink the workshop. That it had to have a
-positive outcome.
+concerned that cynics might sink the workshop; that too many people
+would just use it to dump baggage. But I wasn't running it for that
+reason; I wanted most people to come away with a positive outcome.
 
 # Structure of session
 
-how i thought to organize it.
+Once I got the go-ahead from the organizers I had to get my gear in
+action on how to organize the workshop.  I knew pretty much what I
+*didn't* want: I don't want to just talk at the front of the room; it
+would be boring to hear just me go on about happiness.  (Not that I
+could, anyway: I didn't have all the answers. Heck, I mostly felt I
+didn't have any of the answers); I wanted everyone to hear what
+everyone else had to say. 
 
-I thought about how to organize for these criteria over several
-weeks. I talked to several people. I batted back and forth. I knew
-pretty much what I *didn't* want: 
-I don't want to just talk at the front of the room. 
-It woudl be boring to hear just me drown on about happiness.
-In any case, I couldn't: I didn't have all the answers. Heck, I didn't
-have any of the answers. A confession: I wanted to find out what
-worked for others. 
+I talked to my wife Zoe at the dinner table a lot (we have to talk to
+each other, otherwise the dinner conversation would involve only our
+children talking about Bunny v Monkey farts). I talked to Tom Crick
+(Cardiff Met), Ben Hall (Cambridge MRC), Kenji Takeda
+(azure4research).  I showed them my notes [HappyRSE.md] and discussed
+how to run the session. In the end, I stole the format of the Raising
+Teens group work sessions: we'll split up into four groups. There will
+be four stations, each with a specific topic to talk about. A group
+per station. They will talk and take enough notes on the flipchart to
+be able to give a summary at the end. After every 10/15mins, we would
+rotate.  Right at the end of the entire session, after three
+rotations, we'd have everyone report back on their summaries.
 
-I don't have the answers. We all want/need to hear what everyone has  
-to say.
+The four topics I wanted us to talk about was Here & Now, Work I, Work 
+II, and Life. I wanted them to analyze (moan, dump luggage); then 
+discuss; and lastly come up with actions. 
 
-I took inspiration from the Raising Teens course here. All the group
-exercises we did like this: we would be talking about, say, teenage
-needs. There might be four aspects of these needs, say, emotional,
-physical, mental, X. We would self-select into four groups, go to a
-table with an A0 page on it and scribble our ideas there. If we
-wanted, we could wander to other tables, if we had something to
-contribute to those topics too. 
+# On the Day
+
+I took 5 or 10 minutes at the beginning of the session to say how the
+session would be run, and what we'd be talking about. I confessed
+up-front that I didn't know how to make them happy. But I did say that
+I was happy that they weren't going to the C++ and go sessions that
+were being run in parallel. By making this choice for themselves, I
+said, they already realized a crucial part of the story: that being
+happy was their choice. I said that, at the end of the session, it
+would be nice if everyone could come away with a short menu of things
+they could put into action (maybe not now, maybe some time in the
+future) for them to be happier.
 
 
-
-I will introduce each Section. We'll workshop each one; the workshops
-will report back.
-
-I'm going to talk for 5min about myself, and about the session. I'll
-introduce the Topics (Here&Now, Work, Work 2, Life, Priorities). My
-notes contain the sub-topics and some answers to the issues in these
-Topics but I won't be showing them that. I'll say that I want them to:
-analyze (moan, dump luggage); discuss; and then come up with actions
-to issues on these Topics.
-
-There will be a station (flipboard chart, table with A0 paper) in each
-corner of the room. I'll send 20% to each station. They have 10mins to
-analyze, and then 10mins to come up constructive ideas. I'll ring a
-buzzer at each 10min.  20min at their station in total.
-
-Then they are random shuffled and sent to a different station. Repeat
-analyze/dump. [In fact, kept in groups.]
-
-Once everyone's done a few stations, the stations get to report back
-to everyone.
-
-We will then wonder amongst the Groups, we will all write down
-concrete actions on their Posters that will make us happier.  So,
-everyone will go away with a small list of things they can change to
-make themselves happier.
 
 ## Me
 - 5', 10'
@@ -110,7 +99,7 @@ make themselves happier.
 Not me talking. you/we have answers.
 topics, topic/station. unload/reload. mv && !!. Report back. Menu. 
 
-# Here & Now
+# Topic 1: Here & Now
 
 ## Slide
 
@@ -118,7 +107,11 @@ Why are you here? Who's happy, unhappy now? Why? Did you want to be an RSE?
 
 ## Who's Happy now?
 - Why have you signed up?
-- If you are happy, why are you happy? Do you feel Valued? Useful? Busy?
+- If you are happy, why are you happy? Do you feel Valued? Useful?
+Busy?
+at one point our son Tariq said, what we were 
+talking about. I asked what made him happy.
+
 - If you're happy, maybe you can think of a way to change your situation. 
 - Happy when work is going well.
 - Maybe you don't want to be happy? "Refusal to win"
@@ -339,7 +332,10 @@ seperate work and home (doing work vs thinking about it)
 
 ## Slide
 
-Side Projects. Family. Scratch Day @ School. DadFilmClub. Allotment. Exercise/Diet/Sleep. Anti-fragility. 
+Side Projects. Family. Scratch Day @ School. DadFilmClub. Allotment
+(maybe it's an older thing; but on my council allotment lists, you end
+up being old by the time you get to the front of the
+queue). Exercise/Diet/Sleep. Anti-fragility.
 
 ## Have a Side Project
 - Could be Technical.
@@ -446,10 +442,13 @@ get the most out of so many people being in one place at one time.
 
 Zoe
 
+Sam Bishop and Jo , Cambridgeshire Parenting
+
 Ben Hall, Tom Crick.
 John Bronskill, Matthew Johnson. 
 MSRC focus group: Camilla Langdon?, Gavin Smyth, Sam Webster, Sylvan
 Clebsch, ...
+
 
 Help on the day: Tarek (and re-shaped how the groups would be
 organized). 
