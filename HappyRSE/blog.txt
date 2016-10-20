@@ -94,11 +94,11 @@ In the Here & Now topic, I wanted to people to say why they were here,
 not as an existential question, but, literally, why didn't they go to
 the C++ session? Are they happy or unhappy now, and if so why? Did
 they want to be an RSE (maybe they were a failed researcher, maybe
-they wanted to be an engineer from the start)?
+they wanted to be an engineer from the start)? 
 
 I had thought that people would be happy if they felt they were doing
 something useful and if they were valued. I told the story of my 10yo
-son: I asked him what made him happy; He thought and said "I'm happy
+son: I asked him what made him happy; he thought and said "I'm happy
 because I'm so busy".
 
 Or maybe some people didn't want to be happy? A "refusal to win", to
@@ -114,13 +114,16 @@ person said) work hours.
 
 For some, learning how to make others happy made them happy.
 
-Many said that the UK RSE made them happy (well done, RSE!). It gave
-them recognition of their role, their status, in their work. Several
-people seperately said that their career path was unblocked by their
-EPSRC Fellowship; that their RSE role was a re-start, opening up new
-avenues. Others (maybe more junior?) did say, on the other hand, that
-there was still uncertainty in their role, they were missing feedback,
-they had a lack of recognition.
+Many said that the UK RSE made them happy (well done, UK RSE!). It
+gave them recognition of their role, their status, in their work. It
+also meant that they were a part of a community that they didn't know
+existed before. Several people said that they always wanted to be an
+RSE but didn't know what to call it or what it was; when they found UK
+RSE, it was as if they'd found home. For some, UK RSE unblocked their
+career path via their EPSRC Fellowship; for others, their RSE role was
+a re-start, opening up new avenues. Others (maybe more junior?) did
+say, on the other hand, that there was still uncertainty in their
+role, they were missing feedback, they had a lack of recognition.
 
 In his keynote talk, Matthew Johnson had talked about the spectrum of
 an RSE: from SDE/dev/IT to Researcher. This is a good concept, with
@@ -137,85 +140,73 @@ who said: "A senior PI doesn't do research"; so what's the analogous
 role of a senior RSE?
 
 
-# Work
+# Work 1
 
-## Slide
+There were two "work" topics. "Work 1" was about the relationship an
+RSE has with specific others: with their researchers, with their
+manager, with their Director or Head of Dept. It also covers an RSE
+and their project.
 
-Your researcher and you, Your manager (JB Deal). Your project. Your HoD. Travel. 
+It's the old joke about programmers who say that their life would be
+so much easier if it weren't for their users. But others exist, and we
+have to deal with them so we might as well make a good job of it. 
 
-## Your Researcher and you
-- Perfect is the enemy of the good. Researcher vs Engineer motivation. 
-  Scientist might only want to make this code work for just this paper;
-  or they might only want to solve the ideal problem.
-  Programmer might want to over-complicate.   
-- How do you deal with a Researcher who can code? 
-  With a Researcher who can't code? Who thinks they can code?
+An RSEs relationship with a Researcher is a particuarly interesting
+one, because the Researcher is on the other end of the spectrum, the
+real The Other inside you. What makes a Researcher a Reseacher, and an
+Engineer an Engineer?  I've come across Researchers who want to do the
+ideal (and so never finish), and Researchers who write just enough
+code to make this one paper work.
 
-## You & your Manager
-- AG vs JB. Researcher vs Engineer Manager. 
-- What happens when your manager changes? (This might not be a common scenario for RSEs.)
- - I went over my Manager to a "Uncle" Manager. ==> Importance of contacts/networks.
-- How to manage your Manager: It's an active project. 
- - AManager always wanted to talk about *his* project. Tactic: write down the three things I wanted to talk about on his whiteboard. 
-- What happens when your friend becomes your manager?
- - AS and JC: tried to remain friends. JC moved away.
- - Kate & Zoe: tried but couldn't be friends any more, issues of trust. 
- - the effect of the hierarchy is inevitable
-- What happens when your new manager has no idea how to manage? Parkinson's Law.
-- Matrix Management: pluses and pitfalls. ARM, MSRC. 
-- JB's deal: JB will watch out for me; JB will try and give me work that makes me happy 3/4 of the time.
+Researchers presenting some results of my work in very nice
+environment.  who is presenting my work? researchers at "their"
+conferences --> :-(
 
-## Your project
-- how do you join a Project?
-- Should this RSDE be on that project? How will these decisions be made? Who will make them? Very different situation from commercial engineering product organizations. 
-- How you join a project? Up to you, up to your manager?
-- Who's the Lead Researcher on that project? Are they generous, or a Lone Ranger?
-- Can you start a project? Does it have to be a Researcher who does? 
-- Are you able to complete the project before moving to the next one? 
-- Can the RSDE be coached on the topic? Will they have a chance to learn?
- - It needn't be you stuck here. But you could be the mentor, the counsel.
+Evaluation of RSE work by RSE; researcher as stakeholder not "boss"
+makes *both* sides happier.
 
-## Your Head of Dept and you
-- RSEs value wrt Researchers
-- RSEs as "resources"
+Then there's managers. Over time, as many institutions are becoming
+more corporate (complaints > /dev/null please), an RSE will start to
+have a manager, maybe several "matrix" managers. Often these managers
+might not know what they are doing (over-promoted, innocent, greasy
+pole climbing, put your standard cliche here) and the new managers
+might need active managing themselves. Sometimes your new manager
+might be your old friend and colleague; what do you do then?
 
+The discussion brought out many opinions of managers. Some had a lot
+of autonomy, a lack of management (a good thing?!), or an
+informal/collaborative management (someone said that this could cause
+problems); some had a good relationship with their manager, and used
+them as a sounding board; some had multiple managers.
 
-## Travel
-- SI: train+tube in London. Bike in Cambridge. Now Bike or Walk. Shorter, not necessarity better.
-  - But no judgement here, no blame. First World Problem. 
-- AS story. Swapped from car to train. "My family says that I'm far less grumpy". IT guy, so pretty grumpy at best of times.
-- Walk > Bike > Train > Car.
+Many RSEs reported that they had a lot of freedom to decide the
+project path. They liked working in projects, there was a team spirit
+there, in which a shared understanding makes for happy
+collaboration. They felt they had a unique and crtical special role in
+projects. That they could show off their solutions and get feedback in
+this trusted environment. This optimism was marred only by several
+RSEs talking about short term contracts.
 
-## Flipchart
+Not many I listened to talked about finishing projects (this only came
+up in the context of when the research grant they were on ended. See
+short term contracts above). How do you join another project? Can you
+start a project? Does it have to be a Researcher who does?  Are you
+able to complete the project before moving to the next one?
 
-HoD unaware of RSE work. 
+Above managers, is your Head of Dept. Do they know you? Do they know
+you as more than a "resource"? Can you hide from them forever? Many
+RSEs in the session said that many HoDs were unaware of RSE work
+Note: not unaware of RSEs, unaware of even their work. This is
+serious, something for UK RSE to address.
 
-Good relationship with manager. 
-multiple managers responsibilites
-Team spirit.
-Technical communcation, uptodate.
-Autonomy/ lack of management. 
-short term contracts. 
-Sounding board. Multiple managers, responsibility. 
+Lastly, even though there were RSEs there from mainland Europe and the
+US, there was a very British discussion of overcoming imposter
+syndrome. We often get very difficult things done, that no one else
+can do. We should be proud to claim our achievements without being
+arrogant about it. We should also encourage, amongst ourselves, an
+openness to learning more, and to admitting that there are things we
 
-Overcoming imposter syndrome: encouraging openness, admitting we don't know. 
-Balanced with ability to claim our achievements. 
-(British)
-
-Importance of communcation: shared understanding makes happy collaboration. 
-Informal, collaborative management common. (Can cause problems.) 
-
-Freedom to decide project path.
-Trust in work.
-Evaluation of RSE work by RSE; researcher as stakeholder not "boss" makes *both* sides happier. 
-Travel: MSR speical case, in-company opportunities. Others: travel yes but typically not because of code.
-
-Travel: happy, exhausted. No budget!? No travel because of code. 
-Researchers presenting some results of my work in very nice environment.  who is presenting my work? researchers at "their" conferences --> :-(
-show off your solutions -> feedback. 
-Like projects.
-Unique & critical special role. 
-Be part of community (conference). 
+don't know ... but can find out. 
 
 # Work (holistic)
 
@@ -418,6 +409,9 @@ job: you don't have to deal with this shit.
 
 # Summary
 Amazing buzz at the session.
+
+My one big regret is that I couldn't be in each team/station all the
+time. 
 
 # Next steps
 
