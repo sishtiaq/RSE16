@@ -209,11 +209,51 @@ don't know ... but can find out.
 
 # Work 2
 
-The second Work session was more about holistic aspects of work. How
-you work, what you like working on, what do you think of your career,
-how you got things done.
+The second Work session was meant to be about the more holistic
+aspects of work: how you work, what you like working on, what do you
+think of your career, how you got things done.
+
+For many RSEs in the session, they liked the fact that they choose
+their own projects, that they had autonomy. But many were concerned
+with that the estimates they were making, or working to acheive, were
+very inadequate. They also realized that expectations of both
+themselves and the researchers ("enthusiastic clients" one person
+called them) needed to be managed, especially as there was a lot of
+missing knowledge of the software creation process at their places of
+work.
+
+Participants here liked the fact that their work was very flexible,
+that they had good core hours. But they were critical that 
+communication of their colleagues and managers was "piss poor": one
+person said that they would work by themselves rather than with
+others; that others took, not shared, and this led to a draining of
+energy.  Several people said that for issues, some of which were very
+serious (alcoholism was mentioned) colleagues and managers didn't do
+anything. Problems were not handled; and this happened all the
+time. Several participants mentioned exploitation of juniours, and
+especially short term contracts. 
+
+	  
+
+Clarity in your roles, in your team. 
+Share work out fairly. 
 
 
+Need challenges: busy is happy. 
+
+need to be seen (visibility). Facetime is important. 
+
+Subject specific networking, cross regional. 
+
+
+
+Separating work & home: doing work vs thinking about it. 
+
+Might be working on cool, but not used/useful. 
+Useful -> Boring -> Reached dead end. 
+
+Go easy on yourself. 
+Quick wins on todo list.  
 
 ## Slide
 
@@ -235,80 +275,20 @@ Flexible/part-time. Projects. Performance Review. Mentor. Pay. Career. GTD. RSEL
 - How is your performance judged? Bugs fixed, SW produced, papers authored.
 - Commercialization of your work
 
-
-## Learn something new
-- Conflict between your Project Manager and You.
-- Find a place where you can learn something new. Me: schannel server in C++.
-- Using current, different, cool tech. 
-- Mentor. Your mentor; you a mentor to others. 
-- Do different things, different types of projects (APT).
-
-## Your pay
-- Happy with your current pay? Do you know you are being paid equally (gender, race)? 
-- BH: bioinformations paid more than scientists at Sanger: "They wrote the code a 
-  long time ago. Now they get paid for algorithms they didn't 
-  invent, running on data they didn't collect."
-- vs a Bank.
-- How much is enough?Can you downshift for more happiness? Move to Thailand?
-- AudienceSurvey: anonymous survey, put postit note into box, your salary rounded to 10K.  
-- free things (cake, t-shirts, lunch) make us happy
-
 ## Your career
 - Do you have one? Do you want one? Do you stumble from project to project?
 - Opportunities: manage other RSEs, Senior & Principal RSE; vs SDE in a product company.
  - Transition to Researcher
 
 ## Getting Things Done
-- ToDo lists and systems: GTD, Productivity Ninja, outlook calender.
-- Are you on top of things? Are you drowning? 
-- Should you be organized? More organized? 
-- "you will never get everything done"
 
 ## My RSDE lunches
 - sell to your manager. Don't invite them.
 - Let off steam.
 
-## Flipchart
-
-Underestimation of effort. 
-Fridday morning tennis. 
-Need challenges: busy is happy.
-need to be seen (visibility). Facetime is important. 
-Like minded colleagues are needed. 
-Subject specific networking, cross regional. 
-Enthusiastic clients :-)
-
-Flexible. Core hours. 
-Communication: piss poor, work by myself rather than with others, adapting yourself to others. 
-
-Exploitation of juniors. 
-Missing knowledge of software creation process (complexity). 
-
-Pressure from perfectionism, inability to estimate. 
-Go easy on yourself. 
-Quick wins on todo list. 
-Better estimates: identify person, estimate, how confident?
-
-Managing expectations of ourselves and researchers. 
-Separating work & home: doing work vs thinking about it.
-
-Choose your project: autonomy. 
-Funding: short term contracts. 
-Colleagues/managers don't do anything. Problems not handled. all the time. 
-
-Others taking, not sharing. 
-Draining of energy. 
-Clarity in your roles, in your team. 
-Share work out fairly. 
-Might be working on cool, but not used/useful. 
-Useful -> Boring -> Reached dead end. 
 
 
-pressure from: perfectionism, inability to estimate. 
-go easy on yourself 
-quick mins on todo list 
-managing expectations of ourselves & researchers 
-seperate work and home (doing work vs thinking about it)
+
 
 
 # Life
