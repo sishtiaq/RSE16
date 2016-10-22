@@ -245,26 +245,19 @@ said that, as an RSE, you might be on something cool, but it might not
 be useful or used; on the other hand, working on software that is used
 might be boring and lead to a dead end career.
 
-
-- work with others. Work with others outside your lab.
-- AudienceSurvey: Ask about their team sizes.
-- How is your performance judged? Bugs fixed, SW produced, papers authored.
-
-- Career: Do you have one? Do you want one? 
-- Opportunities: manage other RSEs, Senior & Principal RSE; vs SDE in a product company.
-- Transition to Researcher
-
-## My RSDE lunches
-- sell to your manager. Don't invite them.
-- Let off steam.
-
-
-
-
-
+Some things I wanted to find out, but didn't get to see whether people
+talked about them or not were: Did people work with others outside
+their domain, outside their organizations? What were their team sizes?
+How was their performance judged? What was their career path like, and
+could they change careers the way an academic can? 
 
 # Life
 
+To me, this was the main session. The others didn't make for that much
+conversation, or were water cooler talk. This was the more serious
+one, needing more reflection from the participants. They came
+through: this was the one that was very busy, that I had real trouble
+moving people on from.
 
 ## Look after yourself 
 - Exercise, diet, sleep 
@@ -338,8 +331,14 @@ Being employable, job freedom.
 
 # Summaries.
 
-Being recognized and valued. "Came to the workshop to be happy
-RSE". Remember that we should epect to be happy. UKRSE. Problem
+At the end of the session, while we were being urged by the organizers
+to finish and close, I asked the groups to quickly summarize their
+sessions at each station. Representatives from each group spoke,
+everyone else listened, I quickly took some notes. If anything, these
+summarize the entire session very well: 
+
+Being recognized and valued. "Came to the workshop to be a happy
+RSE". Remember that we should expect to be happy. UKRSE. Problem
 solving. Invested.
 
 Travel makes up part of the community. Risk of brain drain. Watch out
@@ -351,23 +350,24 @@ bad.
 Good to work with good colleagues. Self pressure. 
 
 Sleep is good. But BeingInZone is better. Listen to your body. You
-choose to work, don't letwork colonize your life. You can easily get a
-job: you don't have to deal with this shit.
+choose to work, don't let work colonize your life. You can easily get
+a job: you don't have to deal with this shit.
 
 
-# Summary
-Amazing buzz at the session.
+# What next? 
 
-My one big regret is that I couldn't be in each team/station all the
-time. 
+There was an absolutely amazing buzz at the session. Far from an
+initial fear that it would be full of cynics, it was in fact full of
+positive, inspiring, happy people. My one big regret is that I
+couldn't be in each team/station all the time.
 
-# Next steps
+It would be great to develop many of the things that came out of the
+workshop session. Maybe we should run another session like this at
+RSE17? Maybe run similar sessions on-demand at universities?  Maybe
+the format needs adjusting, more time given to each topic? All of
+these questions are items that you can help develop and guide by
+giving feedback on.
 
-Run a similar session at RSE17.
-Run them on other occassions.
-
-Change format. Will have to experiment to see what would work, and to
-get the most out of so many people being in one place at one time. 
 
 
 # Thanks
@@ -380,7 +380,6 @@ Ben Hall, Tom Crick.
 John Bronskill, Matthew Johnson. 
 MSRC focus group: Camilla Langdon?, Gavin Smyth, Sam Webster, Sylvan
 Clebsch, ...
-
 
 Help on the day: Tarek (and re-shaped how the groups would be
 organized). 
