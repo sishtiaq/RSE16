@@ -292,59 +292,42 @@ a bulwark of understanding and support.)
 One person gave a good summary: You must find what works for you; find
 your productive time; and let other poeple find theirs.
 
-Side Project was one of the topics in ths part. I had mentioned my
+Side Projects was one of the topics in ths part. I had mentioned my
 allotment as a side project at the start of the workshop; I said,
 looking at some of the much younger RSEs, that maybe it was an older
 thing. But, given council waiting times, you do end up being older by
 the time you get to the front of the allotment queue.
 
-If side projects are good, should they be technical or not? It's a
+Side projects are good, but should they be technical or not? It's a
 good question. Maybe you want a break from staring at a screen all
 day, or maybe not. There was a whole list of hobbies and interests:
-Pilates, Road cycling, Greenpower F24 car racing, Dancing, 
-soapbox science.
-school governor
-Music, art, ice skating. 
-Singing.  Flying trapeze. Board games.
-exercise, cooking, reading. not computer. out of comfort zone: leanring skills not commuting.
+pilates, road cycling, Greenpower F24 car racing, dancing, soapbox
+science.  school governor, music, singing, art, ice skating, flying
+trapeze, board games, cooking, reading. For many, family is a big
+(BIG!) side project: having a family cuts you off, keeps you grounded,
+children re-prioritize your life.
+People also listed Scratch Day, videogames, and open source community
+engagement (though how much these counts as non technical, I couldn't
+say).
 
-I run Scratch Day at my children's school
-- Do you do something like this? Should you? (Does your job have the flexibility to do this? 
-) 
-- Reminds me why I write software; Makes a difference to kids; useful; another social circle. 
-open source community engagement 
-Videogames 
+The essense of quite a lot of these activities is that they are
+outside work, they involve other people. One of the activities I do
+around this is run a Dads Film Club (though the secret there is that
+it suites introverted men, you need not talk that much as the film
+takes up most of the time). 
 
-Outside work, friends. 
-Focus on other people.
-hang out with other people: Dad Film Club (suits introverted men, need
-not involve beer). 
+For some of the participants, the constructive side projects were seen
+as an escape route from feeling stuck or depressed, theye allowed
+mediation and mindfulness.  For others, maybe for most, it was an
+expression of their self, free choice, and gave them a sense of
+achievement.
 
-## Big Side Project: family 
-- AudienceSurvey: age, partner, children. 
-- Family keeps you grounded. 
-- Children re-prioritize your life. 
-- Good or Bad? Just different. But *you* grow as a person. 
-
-For some of the participants, side projects were seen as an escape
-route from feeling stuck or depressed, theye allowed mediation and
-mindfulness.  For others, maybe for most, it was an expression of
-their self free choice, and gave them a sense of achievement.
-
-
-leaving comfort zone
-Flexibility/Autonomy/Stability. (Triangle relationship)
-keep body happy.
-relax your brain. 
-## Step outside your comfort zone 
-- "It's Not if you get injured, it's when you do" Coach Sommer. SLS mobility drills. 
-- Nicholas Taleb's Anti-Fragility. Ido Portal application to
-movement.
-
-Go easy on yourself. 
-Being employable, job freedom. 
-
-
+There was a lot of positive vibe from this topic. I think a lot of
+people realized that they had a good Triangle of 
+Flexibility/Autonomy/Stability going. They wanted to keep their body
+happy, they wanted to relax their brain, they wanted to step outside
+their comfort zone. As someone reminded everyone: go easy on yourself,
+you are highly employable, you have job freedom. 
 
 
 # Summaries.
@@ -396,11 +379,11 @@ run something like this yourself.
 
 Zoe
 
-Sam Bishop and Jo , Cambridgeshire Parenting
+Sam and Jo , Cambridgeshire Parenting
 
 Ben Hall, Tom Crick.
 John Bronskill, Matthew Johnson. 
-MSRC focus group: Camilla Langdon?, Gavin Smyth, Sam Webster, Sylvan
+MSRC focus group: Camilla Longdon, Gavin Smyth, Sam Webster, Sylvan
 Clebsch, ...
 
 Help on the day: Tarek (and re-shaped how the groups would be
