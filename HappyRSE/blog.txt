@@ -142,7 +142,7 @@ who said: "A senior PI doesn't do research"; so what's the analogous
 role of a senior RSE?
 
 
-# Work 1
+# Topic 2: Work 1
 
 There were two "work" topics. "Work 1" was about the relationship an
 RSE has with specific others: with their researchers, with their
@@ -209,7 +209,7 @@ arrogant about it. We should also encourage, amongst ourselves, an
 openness to learning more, and to admitting that there are things we
 don't know ... but can find out. 
 
-# Work 2
+# Topic 3: Work 2
 
 The second Work session was meant to be about the more holistic
 aspects of work: how you work, what you like working on, what do you
@@ -253,7 +253,7 @@ their domain, outside their organizations? What were their team sizes?
 How was their performance judged? What was their career path like, and
 could they change careers the way an academic can? 
 
-# Life
+# Topic 4: Life
 
 To me, this was the main session. The other sessions didn't really
 make for that much conversation, or were water cooler talk. This was
@@ -330,7 +330,7 @@ their comfort zone. As someone reminded everyone: go easy on yourself,
 you are highly employable, you have job freedom. 
 
 
-# Summaries.
+# Summaries
 
 At the end of the session, while we were being urged by the organizers
 to finish and close, I asked the groups to quickly summarize their
