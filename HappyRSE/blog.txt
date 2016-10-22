@@ -73,7 +73,9 @@ rotations, we'd have everyone report back on their summaries.
 
 The four topics I wanted us to talk about was Here & Now, Work I, Work 
 II, and Life. I wanted them to analyze (moan, dump luggage); then 
-discuss; and lastly come up with actions. 
+discuss; and lastly come up with actions. To seed discussion on these,
+topics, I had written up a list of sub-topics that they could
+discuss. 
 
 # On the Day
 
@@ -253,51 +255,67 @@ could they change careers the way an academic can?
 
 # Life
 
-To me, this was the main session. The others didn't make for that much
-conversation, or were water cooler talk. This was the more serious
-one, needing more reflection from the participants. They came
-through: this was the one that was very busy, that I had real trouble
-moving people on from.
+To me, this was the main session. The other sessions didn't really
+make for that much conversation, or were water cooler talk. This was
+the more serious one, needing more reflection from the
+participants. And they came through: this was the session that was
+very busy, that I had real trouble moving people on from.
 
-## Look after yourself 
-- Exercise, diet, sleep 
-Exercise/Diet/Sleep. Anti-fragility.
+The main topic of this session was to: look after yourself. To make
+sure, at the risk of sounding like a Dept of Health advert, to
+exercise/diet/sleep well.
 
-Sleep/relaxation is good. For Problem perception. 
-Contra: Don't take me out of the flow/zone -> genuine joy/full control. 
+Who wouldn't admit that sleep and relaxation are good for you? Though
+there were some interesting comments as seeing sleep to be good for solving
+problems. And, contrariwise, some participants enjoyed being the
+flow/zone so much, they didn't want to be interrupted by sleep and
+relaxation; they enjoyed the genuine joy/full control over their
+problems, and didn't want to be taken out of them. Even if they were
+at home, the might be thinking about work (vs. doing work itself). 
 
-Separating work & home: doing work vs thinking about it.
+But many participants wanted a clear separation of work and home.
+They desired and kept a good work--life balance, they kept their
+independence, they kept strict boundaries between work and home.
+"Don't let work colonise your life", one person said.
 
-Find your productive time. And let other poeple at theirs. 
+There was a good diversity of participants in the workshop, and the
+comments on trying to keep a good work/life balance at different times
+of your life reflected this. Life changes, at different times, what
+you have to do is diffent, transitions in maintaining the balance is
+difficult. Not all of it is under your control, or your the choice
+that you would make under different circumstances. Working at home or
+working part time has positives and negatives (unrealistic
+expectations, salary cuts). Family can have a lack of understanding
+and support. (But I would argue: bring them on your side, they can be
+a bulwark of understanding and support.)
 
-Work life balance. independence.
-work + personal time. 
-Boundaries. 
-Don't let work colonise your life.
-Work/life balance important: changes at diffent times, transitions in
-balance difficult, not always your choice, working at home, part time
-positives/negatives expectations/realistic.
-salary cuts/ p/t is difficulty (family) lack of understanding/support. 
+One person gave a good summary: You must find what works for you; find
+your productive time; and let other poeple find theirs.
 
-## Side Project:  Technical vs. Non-technical.
-Me: Allotment. Maybe it's an older thing; but on my council allotment lists, you end up being old by the time you get to the front of the queue).
-Pilates, Family, Road cycling/touring, Long holidays, Greenpower F24 car racing, Dancing, Coder Dojo, Seminars (tangential)  
-public engagement: science busking, soapbox science.
+Side Project was one of the topics in ths part. I had mentioned my
+allotment as a side project at the start of the workshop; I said,
+looking at some of the much younger RSEs, that maybe it was an older
+thing. But, given council waiting times, you do end up being older by
+the time you get to the front of the allotment queue.
+
+If side projects are good, should they be technical or not? It's a
+good question. Maybe you want a break from staring at a screen all
+day, or maybe not. There was a whole list of hobbies and interests:
+Pilates, Road cycling, Greenpower F24 car racing, Dancing, 
+soapbox science.
+school governor
+Music, art, ice skating. 
+Singing.  Flying trapeze. Board games.
+exercise, cooking, reading. not computer. out of comfort zone: leanring skills not commuting.
+
 I run Scratch Day at my children's school
 - Do you do something like this? Should you? (Does your job have the flexibility to do this? 
 ) 
 - Reminds me why I write software; Makes a difference to kids; useful; another social circle. 
-school governor 
 open source community engagement 
-relaxing: exercise, cooking, reading. not computer. out of comfort zone: leanring skills not commuting.
-Outside work, friends. 
-Music, art, ice skating. 
-relaxing with/without computer (relax the brain)
-Singing. 
 Videogames 
-Flying trapeze. 
-Board games.
-Some people needs lots of non-computer activities.
+
+Outside work, friends. 
 Focus on other people.
 hang out with other people: Dad Film Club (suits introverted men, need
 not involve beer). 
@@ -308,10 +326,10 @@ not involve beer).
 - Children re-prioritize your life. 
 - Good or Bad? Just different. But *you* grow as a person. 
 
-Side projects as an escape route from feeling stuck/depressed. allow
-Mediation/Mindfulness.
-
-self free choice, sense of achievement.
+For some of the participants, side projects were seen as an escape
+route from feeling stuck or depressed, theye allowed mediation and
+mindfulness.  For others, maybe for most, it was an expression of
+their self free choice, and gave them a sense of achievement.
 
 
 leaving comfort zone
@@ -337,21 +355,21 @@ sessions at each station. Representatives from each group spoke,
 everyone else listened, I quickly took some notes. If anything, these
 summarize the entire session very well: 
 
-Being recognized and valued. "Came to the workshop to be a happy
-RSE". Remember that we should expect to be happy. UKRSE. Problem
-solving. Invested.
+  Being recognized and valued. "Came to the workshop to be a happy
+  RSE". Remember that we should expect to be happy. UKRSE. Problem
+  solving. Invested.
 
-Travel makes up part of the community. Risk of brain drain. Watch out
-for imposter syndrome. Be open, claim your acheivements. Communication
-important. Management good/bad. Creative freedom. Peer review. Good
-relationship w/ manager(s) needed but difficut. Short term contracts
-bad.
+  Travel makes up part of the community. Risk of brain drain. Watch out
+  for imposter syndrome. Be open, claim your acheivements. Communication
+  important. Management good/bad. Creative freedom. Peer review. Good
+  relationship w/ manager(s) needed but difficut. Short term contracts
+  bad.
 
-Good to work with good colleagues. Self pressure. 
+  Good to work with good colleagues. Self pressure. 
 
-Sleep is good. But BeingInZone is better. Listen to your body. You
-choose to work, don't let work colonize your life. You can easily get
-a job: you don't have to deal with this shit.
+  Sleep is good. But BeingInZone is better. Listen to your body. You
+  choose to work, don't let work colonize your life. You can easily get
+  a job: you don't have to deal with this shit.
 
 
 # What next? 
@@ -368,6 +386,10 @@ the format needs adjusting, more time given to each topic? All of
 these questions are items that you can help develop and guide by
 giving feedback on.
 
+My rough notes in preparing for this session are at
+https://github.com/sishtiaq/HappyRSE. Photos of the flipcharts 
+are there too. These are all available for you to use, if you want to
+run something like this yourself. 
 
 
 # Thanks
