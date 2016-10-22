@@ -265,40 +265,13 @@ might be boring and lead to a dead end career.
 
 # Life
 
-## Slide
 
-Side Projects. Family. Scratch Day @ School. DadFilmClub. Allotment
-(maybe it's an older thing; but on my council allotment lists, you end
-up being old by the time you get to the front of the
-queue). Exercise/Diet/Sleep. Anti-fragility.
-
-## Have a Side Project
-- Could be Technical.
-- Definitely non-technical. Hobby, Allotment, Pets, Music, Sport. 
-
-## Big Side Project: family
-- AudienceSurvey: age, partner, children. 
-- Family keeps you grounded.
-- Children re-prioritize your life.
-- Good or Bad? Just different. But *you* grow as a person. 
-
-## I run Scratch Day at my children's school
-- Do you do something like this? Should you? (Does your job have the flexibility to do this? 
-)
-- Reminds me why I write software; Makes a difference to kids; useful; another social circle.
- 
-## Look after yourself
-- Exercise, diet, sleep
-- Dad Film Club (suits introverted men, need not involve beer)
-
-## Step outside your comfort zone
-- "It's Not if you get injured, it's when you do" Coach Sommer. SLS mobility drills.
-- Nicholas Taleb's Anti-Fragility. Ido Portal application to movement. 
-
-## Flipchart
+## Look after yourself 
+- Exercise, diet, sleep 
+Exercise/Diet/Sleep. Anti-fragility.
 
 Sleep/relaxation is good. For Problem perception. 
-Don't take me out of the flow/zone -> genuine joy/full control. 
+Contra: Don't take me out of the flow/zone -> genuine joy/full control. 
 
 Separating work & home: doing work vs thinking about it.
 
@@ -313,9 +286,14 @@ balance difficult, not always your choice, working at home, part time
 positives/negatives expectations/realistic.
 salary cuts/ p/t is difficulty (family) lack of understanding/support. 
 
-
+## Side Project:  Technical vs. Non-technical.
+Me: Allotment. Maybe it's an older thing; but on my council allotment lists, you end up being old by the time you get to the front of the queue).
 Pilates, Family, Road cycling/touring, Long holidays, Greenpower F24 car racing, Dancing, Coder Dojo, Seminars (tangential)  
- public engagement: science busking, soapbox science. 
+public engagement: science busking, soapbox science.
+I run Scratch Day at my children's school
+- Do you do something like this? Should you? (Does your job have the flexibility to do this? 
+) 
+- Reminds me why I write software; Makes a difference to kids; useful; another social circle. 
 school governor 
 open source community engagement 
 relaxing: exercise, cooking, reading. not computer. out of comfort zone: leanring skills not commuting.
@@ -327,7 +305,15 @@ Videogames
 Flying trapeze. 
 Board games.
 Some people needs lots of non-computer activities.
-Focus on other people. 
+Focus on other people.
+hang out with other people: Dad Film Club (suits introverted men, need
+not involve beer). 
+
+## Big Side Project: family 
+- AudienceSurvey: age, partner, children. 
+- Family keeps you grounded. 
+- Children re-prioritize your life. 
+- Good or Bad? Just different. But *you* grow as a person. 
 
 Side projects as an escape route from feeling stuck/depressed. allow
 Mediation/Mindfulness.
@@ -339,6 +325,10 @@ leaving comfort zone
 Flexibility/Autonomy/Stability. (Triangle relationship)
 keep body happy.
 relax your brain. 
+## Step outside your comfort zone 
+- "It's Not if you get injured, it's when you do" Coach Sommer. SLS mobility drills. 
+- Nicholas Taleb's Anti-Fragility. Ido Portal application to
+movement.
 
 Go easy on yourself. 
 Being employable, job freedom. 
