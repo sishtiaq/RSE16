@@ -22,8 +22,7 @@ There, I'm happier with that off my chest.
 # Intro
 
 I had been thinking explicitly of happiness for a few months. I had
-attended a 10-week course on Raising Teens (brilliant course, TODO
-cambs.gov.uk link, if you have a chance locally to attend something
+attended a 10-week course on Raising Teens (brilliant course, http://www.cambridgeshire.gov.uk/info/20075/parenting_and_family_support/405/parenting_courses, if you have a chance locally to attend something
 like this, do) recently. Lots of things that you think of as American
 buzzwords, well they can be treated as American buzzwords, or you can
 reflect on them more seriously, with good intension. Ideas like
@@ -370,16 +369,15 @@ these questions are items that you can help develop and guide by
 giving feedback on.
 
 My rough notes in preparing for this session are at
-https://github.com/sishtiaq/HappyRSE. Photos of the flipcharts 
-are there too. These are all available for you to use, if you want to
-run something like this yourself. 
-
+https://github.com/sishtiaq/RSE16. Photos of the flipcharts 
+are there too. If you want to use anything there to run something 
+yourself, please do. 
 
 # Thanks
 
 Zoe
 
-Sam and Jo , Cambridgeshire Parenting
+Sam Bishop and Jo Seymour, Family Workers, Cambridgeshire County Council
 
 Ben Hall, Tom Crick.
 John Bronskill, Matthew Johnson. 
