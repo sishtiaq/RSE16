@@ -13,7 +13,7 @@ Now, you're always told never to begin a talk by apologizing, but I
 will begin this article by saying sorry to the RSE organizers. I'm
 sorry that our session overran. I'm sorry that everyone was talking so
 much (and so intensely!) that I didn't have the heart to interrupt
-them and move them. I'm sorry that the conference had to end later
+them and move them on. I'm sorry that the conference had to end later
 than planned. And, while the train derailment wasn't my fault, I'm
 sorry to any attendees who missed their train.
 
@@ -110,7 +110,7 @@ The discussion brought up many useful answers to these
 questions. Turns out, RSEs (or, at least, those attending the
 workshop) were generally happy.  They liked working with others, they
 liked solving problem ("tenacity" one person said), they liked what
-they were doing, they like being busy. The vast majority of the RSEs
+they were doing, they liked being busy. The vast majority of the RSEs
 there were employed by institutions that allowed them autonomy and
 freedom to be in control of their own work; they had good ("contained"
 one person said) work hours.
