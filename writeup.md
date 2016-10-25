@@ -364,15 +364,15 @@ please do. If you have feedback or comments, please get in touch.
 # Thanks
 
 I want to thank Sam Bishop and Jo Seymour, Family Workers at
-Cambridgeshire County Council for their Raising Teens course.
+Cambridgeshire County Council, for their Raising Teens course.
 
 I want to thank 
 Federica Bogo, David Carter, Sylvan Clebsch,
 Camilla Longdon, Gavin Smyth, Sam Webster, Sarah Winkler, 
 and especially John Bronskill, Tom Crick, Ben Hall, Matthew Johnson for providing feedback.
 
-Tarek Allam helped out on the day, and re-shaped how the groups would
-be organized.
+I want to thank Tarek Allam helped out on the day, and for his 
+suggestion on how to re-shaped the groups.
 
 Finally, thank you, Zoe!
 
