@@ -48,7 +48,7 @@ only our children talking about
 I consulted Tom Crick (Cardiff Met), Ben Hall (MRC Cancer Unit), Kenji
 Takeda (azure4research), John Bronskill (MSR) and Matthew Johnson
 (MSR). I showed them my 
-[notes](https://github.com/sishtiaq/RSE16/pre_workshop_notes.md) 
+[notes](https://github.com/sishtiaq/RSE16/blob/master/pre_workshop_notes.md) 
 and discussed how to run the session. In the end, I stole the format
 of the Raising Teens group work sessions: we split up into four
 groups. There would be four stations, each with a specific topic to
