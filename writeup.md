@@ -144,7 +144,7 @@ others exist, and we have to deal with them so we might as well make a
 good job of it.
 
 An RSEs comparison, and so their relationship, with a Researcher is a
-particuarly interesting. I've come across Researchers who want to do
+particularly interesting. I've come across Researchers who want to do
 the ideal (and so never finish), and Researchers who write just enough
 code to make this one paper work. One of the participants talked about
 a researcher presenting the RSE's work "in very nice conference
@@ -168,7 +168,7 @@ them as a sounding board; some had multiple managers.
 Many RSEs reported that they had a lot of freedom to decide the
 project path. They liked working in projects, there was a team spirit
 there, in which a shared understanding made for happy
-collaboration. They felt they had a unique and crtical special role in
+collaboration. They felt they had a unique and critical special role in
 projects. And that they could show off their solutions and get
 feedback in this trusted environment. This good feeling was marred by
 several RSEs talking about short-term contracts.
@@ -186,7 +186,7 @@ Note what they said: not just unaware of RSEs, unaware of even their
 work. This is serious, something for UK RSE to address.
 
 Lastly, even though there were RSEs there from mainland Europe and the
-US, there was a very British discussion of overcoming imposter
+US, there was a very British discussion of overcoming impostor
 syndrome. We often get very difficult things done, that no one else
 can do. We should be proud to claim our achievements without being
 arrogant about it. We should also encourage, amongst ourselves, an
@@ -261,7 +261,7 @@ colonise your life", one person said.
 There was a good diversity of participants in the workshop, and the
 comments on trying to keep a good work/life balance at different times
 of your life reflected this. At different times of your life, what you
-have to do is diffent, and transitions in maintaining the balance is
+have to do is different, and transitions in maintaining the balance is
 difficult. Not all of it is under your control. Working at home or
 working part time has positives and negatives (unrealistic
 expectations, salary cuts). Family can have a lack of understanding
@@ -269,9 +269,9 @@ and support. (But I would argue: bring them on your side, they can be
 turned into a strong bulwark of understanding and support.)
 
 One person gave a good summary: You must find what works for you; find
-your productive time; and let other poeple find theirs.
+your productive time; and let other people find theirs.
 
-Side Projects was one of the topics in ths part. I had mentioned my
+Side Projects was one of the topics in this part. I had mentioned my
 allotment as a side project at the start of the workshop; I said,
 looking at some of the much younger RSEs, that maybe it was an older
 thing. But that, given council waiting times, you do end up being
@@ -288,7 +288,7 @@ re-prioritize your life.  People also listed Scratch Day, videogames,
 and open source community engagement (though, guys, these are really
 not non-technical).
 
-The essense of these activities is that they are outside work, they
+The essence of these activities is that they are outside work, they
 involve other people. One of the things I do, for instance, is run a
 Dads Film Club (though the secret there is that it suits introverted
 men, and you need not talk that much as the film takes up most of the
@@ -321,9 +321,9 @@ summarize the entire session very well:
 >  solving. Invested.
 
 >  Travel makes up part of the community. Risk of brain drain. Watch out
->  for imposter syndrome. Be open, claim your acheivements. Communication
+>  for impostor syndrome. Be open, claim your achievements. Communication
 >  important. Management good/bad. Creative freedom. Peer review. Good
->  relationship w/ manager(s) needed but difficut. Short term contracts
+>  relationship w/ manager(s) needed but difficult. Short term contracts
 >  bad.
 
 >  Good to work with good colleagues. Self pressure. 
@@ -362,7 +362,7 @@ Federica Bogo, David Carter, Sylvan Clebsch,
 Camilla Longdon, Gavin Smyth, Sam Webster, Sarah Winkler, 
 and especially John Bronskill, Tom Crick, Ben Hall, Matthew Johnson for providing feedback.
 
-I want to thank Tarek Allam helped out on the day, and for his 
+I want to thank Tarek Allam for helping out on the day, and for his
 suggestion on how to re-shape the groups.
 
 Finally, thank you, Zoe!
