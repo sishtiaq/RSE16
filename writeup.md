@@ -2,23 +2,6 @@
 Be a Happy RSE
 ==============
 
-# An Apology
-
-I conceived, organized and ran the "Be A Happy RSE" workshop at
-RSE16. In this post, I want to tell you how I did this, what happened
-there, and share some ideas on what to do next. I'd be very happy to
-receive your thoughts or feedback on the session itself.
-
-Now, you're always told never to begin a talk by apologizing, but I
-will begin this article by saying sorry to the RSE organizers. I'm
-sorry that our session overran. I'm sorry that everyone was talking so
-much (and so intensely!) that I didn't have the heart to interrupt
-them and move them on. I'm sorry that the conference had to end later
-than planned. And, while the train derailment wasn't my fault, I'm
-sorry to any attendees who missed their train.
-
-There, I'm happier with that off my chest. 
-
 # Intro
 
 I had been thinking explicitly of happiness for a few months. I had
@@ -29,7 +12,8 @@ recently. It was a good chance to really think about resilience,
 support, boundaries, praise, labels, deeds-not-doers, Maslow. Part of
 the purpose of a course like this (you find out, it's never said to
 you explicitly) is to think about *yourself*, not about your teen. So
-I had been thinking about what my resilience was like?  Was I happy?
+I had been thinking about what my resilience was like. Was I
+resilient? Was I happy?
 
 It was a short jump from there to, while proposing F#+Z3 as a workshop
 to RSE16 (got rejected, boohoo, I wasn't happy, you can see what you
@@ -131,7 +115,7 @@ role, they were missing feedback, they had a lack of recognition.
 In his keynote talk, Matthew Johnson had talked about the spectrum of
 an RSE: from SDE/dev/IT all the way to Researcher. This is a good
 concept, with both positive and negative implications. Many people
-said that they enjoyed the dual aspects of Software Enginerring and
+said that they enjoyed the dual aspects of Software Engineering and
 domain expertise. They produce something that is used again and again:
 the obvious analogy is to a successful paper cited many times. On the
 other hand, there is no recognition by journals of this work; quite a
@@ -209,11 +193,11 @@ don't know ... but can find out.
 The second Work session was meant to be about the more holistic
 aspects of work: how you work, what you like working on, what do you
 think of your career, how you got things done. In fact, the discussion
-was more wide ranging that than.
+was more wide ranging than that.
 
-For many RSEs in the session, they liked the fact that they chose
-their own projects, that they had autonomy. But many were concerned
-that the estimates they were making were very inadequate. They also
+For many RSEs in the session, they liked the fact that they had the
+autonomy to chose their own projects. But many were concerned that the
+work-item estimates they were making were very inadequate. They also
 realized that expectations of both themselves and the researchers
 ("enthusiastic clients" one person called them) needed to be managed,
 especially as there was a lot of missing knowledge of the software
@@ -258,12 +242,12 @@ sure, at the risk of sounding like a Dept of Health advert, to
 exercise/diet/sleep well.
 
 Who wouldn't admit that sleep and relaxation are good for you? Many
-said saw sleep to be good for solving problems. And, contrariwise,
-some participants enjoyed being in the flow/zone so much, they didn't
-want to be interrupted by sleep and relaxation; they enjoyed the
-genuine joy/full control over their problems, and didn't want to be
-taken out of them. Even if they were at home, the might be thinking
-about work (vs. doing work itself).
+saw sleep to be good for solving problems. And, contrariwise, some
+participants enjoyed being in the flow/zone so much, they didn't want
+to be interrupted by sleep and relaxation; they enjoyed the genuine
+joy/full control over their problems, and didn't want to be taken out
+of them. Even if they were at home, they might be thinking about work
+(vs. doing work itself).
 
 But many participants wanted a clear separation of work and home.
 They desired and kept a good work--life balance. "Don't let work
@@ -327,21 +311,21 @@ sessions at each station. Representatives from each group spoke,
 everyone else listened, I quickly took some notes. If anything, these
 summarize the entire session very well: 
 
-  Being recognized and valued. "Came to the workshop to be a happy
-  RSE". Remember that we should expect to be happy. UKRSE. Problem
-  solving. Invested.
-
-  Travel makes up part of the community. Risk of brain drain. Watch out
-  for imposter syndrome. Be open, claim your acheivements. Communication
-  important. Management good/bad. Creative freedom. Peer review. Good
-  relationship w/ manager(s) needed but difficut. Short term contracts
-  bad.
-
-  Good to work with good colleagues. Self pressure. 
-
-  Sleep is good. But BeingInZone is better. Listen to your body. You
-  choose to work, don't let work colonize your life. You can easily get
-  a job: you don't have to deal with this shit.
+>  Being recognized and valued. "Came to the workshop to be a happy
+>  RSE". Remember that we should expect to be happy. UKRSE. Problem
+>  solving. Invested.
+>
+>  Travel makes up part of the community. Risk of brain drain. Watch out
+>  for imposter syndrome. Be open, claim your acheivements. Communication
+>  important. Management good/bad. Creative freedom. Peer review. Good
+>  relationship w/ manager(s) needed but difficut. Short term contracts
+>  bad.
+>
+>  Good to work with good colleagues. Self pressure. 
+>
+>  Sleep is good. But BeingInZone is better. Listen to your body. You
+>  choose to work, don't let work colonize your life. You can easily get
+>  a job: you don't have to deal with this shit.
 
 
 # What next? 
@@ -372,7 +356,7 @@ Camilla Longdon, Gavin Smyth, Sam Webster, Sarah Winkler,
 and especially John Bronskill, Tom Crick, Ben Hall, Matthew Johnson for providing feedback.
 
 I want to thank Tarek Allam helped out on the day, and for his 
-suggestion on how to re-shaped the groups.
+suggestion on how to re-shape the groups.
 
 Finally, thank you, Zoe!
 
