@@ -5,8 +5,9 @@ Be a Happy RSE
 # Intro
 
 I had been thinking explicitly of happiness for a few months. I had
-attended a 10-week course on Raising Teens (brilliant course
-http://www.cambridgeshire.gov.uk/info/20075/parenting_and_family_support/405/parenting_courses,
+attended a 10-week course on Raising Teens (brilliant course, link
+from
+http://www.cambridgeshire.gov.uk/info/20075/parenting_and_family_support/405/parenting_courses;
 if you have a chance locally to attend something like this, do)
 recently. It was a good chance to really think about resilience,
 support, boundaries, praise, labels, deeds-not-doers, Maslow. Part of
@@ -16,7 +17,7 @@ I had been thinking about what my resilience was like. Was I
 resilient? Was I happy?
 
 It was a short jump from there to, while proposing F#+Z3 as a workshop
-to RSE16 (got rejected, boohoo, I wasn't happy, you can see what you
+to RSE16 (got rejected, boohoo, I wasn't happy; you can see what you
 missed at https://github.com/sishtiaq/compose-z3-tutorial), I thought:
 I'm a research engineer, what makes me happy might also be what makes
 others happy; how about I run a session on happiness for RSEs? It was
@@ -27,39 +28,43 @@ that others have some of the answers. Why not share what we have?
 
 I proposed the session to the RSE organizers. They said yes, but were
 concerned that too many people would just use it to dump baggage. But
-I wasn't going to run it if it was going to become a moaning shop; I
-wanted most people to come away with a positive outcome. In the end, the
-positive attitude of the attendees surpassed all my expectations. 
+I wasn't going to run it if it was going to become a gathering of
+Moaning Myrtles; I wanted most people to come away with a positive
+outcome. In the end, the positive attitude of the attendees surpassed
+all my expectations.
 
 # Structure and organization 
 
 Once I got the go-ahead from the organizers I had to get my act in
-gear.  I knew pretty much what I *didn't* want: I don't want to just
+gear. I knew pretty much what I *didn't* want: I didn't want to just
 talk at the front of the room; it would be boring and I didn't have
 all/any of the answers. I wanted everyone to hear what everyone else
 had to say.
 
-I talked to my wife Zoe at the dinner table a lot (we have to talk to
-each other, otherwise the dinner conversation would involve only our
-children talking about Bunny v Monkey
-http://www.fumboo.com/portfolio/bunny-vs-monkey). I consulted Tom
-Crick (Cardiff Met), Ben Hall (MRC Cancer Unit), Kenji Takeda
-(azure4research), John Bronskill (MSR) and Matthew Johnson (MSR). I
-showed them my notes [pre_workshop_notes.md] and discussed how to run
-the session. In the end, I stole the format of the Raising Teens group
-work sessions: we split up into four groups. There would be four
-stations, each with a specific topic to talk about. A group per
-station. They would talk and take enough notes on the flipchart to be
-able to give a summary at the end. After every 10/15mins, we would
-rotate. Right at the end of the entire session, after three
-rotations, we'd have everyone report back on their summaries.
+I talked to my wife Zoe at the dinner table a lot about this (we have
+to talk to each other, otherwise the dinner conversation would involve
+only our children talking about 
+[Bunny v Monkey](http://www.fumboo.com/portfolio/bunny-vs-monkey).  
+I consulted Tom Crick (Cardiff Met), Ben Hall (MRC Cancer Unit), Kenji
+Takeda (azure4research), John Bronskill (MSR) and Matthew Johnson
+(MSR). I showed them my 
+[notes](https://github.com/sishtiaq/RSE16/pre_workshop_notes.md) 
+and discussed how to run the session. In the end, I stole the format
+of the Raising Teens group work sessions: we split up into four
+groups. There would be four stations, each with a specific topic to
+talk about. A group per station. They would talk and take enough notes
+on the flipchart to be able to give a summary at the end. After every
+10/15mins, we would rotate. Right at the end of the entire session,
+after three rotations, we'd have everyone report back on their
+summaries.
 
 The four topics I wanted us to talk about were: Here & Now, Work I,
 Work II, and Life. I wanted them to analyze (moan, dump luggage); then
 discuss; and lastly come up with actions. To seed discussion on these
 topics, I stuck up slogans of sub-topics. 
 
-80 people had signed up for the workshop. I was terrified!
+80 people had signed up for the workshop. I was properly terrified for
+a week before-hand! 
 
 # On the Day
 
@@ -314,15 +319,15 @@ summarize the entire session very well:
 >  Being recognized and valued. "Came to the workshop to be a happy
 >  RSE". Remember that we should expect to be happy. UKRSE. Problem
 >  solving. Invested.
->
+
 >  Travel makes up part of the community. Risk of brain drain. Watch out
 >  for imposter syndrome. Be open, claim your acheivements. Communication
 >  important. Management good/bad. Creative freedom. Peer review. Good
 >  relationship w/ manager(s) needed but difficut. Short term contracts
 >  bad.
->
+
 >  Good to work with good colleagues. Self pressure. 
->
+
 >  Sleep is good. But BeingInZone is better. Listen to your body. You
 >  choose to work, don't let work colonize your life. You can easily get
 >  a job: you don't have to deal with this shit.
@@ -338,12 +343,14 @@ couldn't be in each team/station all the time.
 It would be great to develop many of the things that came out of the
 workshop session. Maybe we should run another session like this at
 RSE17? Maybe run similar sessions on-demand at universities?  Maybe
-the format needs adjusting, more time given to each topic? 
+the format needs adjusting, more time given to each topic? Maybe talk
+about different topics?
 
-My rough notes in preparing for this session are at
-https://github.com/sishtiaq/RSE16. Photos of the flipcharts are there
-too. If you want to use anything there to run something yourself,
-please do. If you have feedback or comments, please get in touch.
+Nearly everything that was written in relation to this workshop is
+stored at my [RSE16 github repo](https://github.com/sishtiaq/RSE16);
+this includes my rough notes in preparing for this session, and photos
+of the flipcharts. If you want to use anything from there, please
+do. If you have feedback or comments, please get in touch.
 
 # Thanks
 
