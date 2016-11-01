@@ -2,6 +2,10 @@
 Be a Happy RSE
 ==============
 
+# Note
+
+I ran a ["Be a Happy RSE" workshop](http://www.rse.ac.uk/conf2016_workshops#C5) at the [RSE's first annual conference](http://www.rse.ac.uk/conf2016.html) This a writeup of that workshop. 
+
 # Intro
 
 I had been thinking explicitly of happiness for a few months. I had
