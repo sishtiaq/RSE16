@@ -1,4 +1,5 @@
 
+
 Be a Happy RSE
 ==============
 
@@ -10,9 +11,9 @@ I ran a ["Be a Happy RSE" workshop](http://www.rse.ac.uk/conf2016_workshops#C5) 
 
 I had been thinking explicitly of happiness for a few months. I had
 attended a 10-week course on Raising Teens (brilliant course, link
-from
-http://www.cambridgeshire.gov.uk/info/20075/parenting_and_family_support/405/parenting_courses;
-if you have a chance locally to attend something like this, do)
+from 
+https://www.cambridgeshire.gov.uk/residents/children-and-families/parenting-and-family-support/parenting-courses/;
+if you have a chance to attend something like locally this, do it!)
 recently. It was a good chance to really think about resilience,
 support, boundaries, praise, labels, deeds-not-doers, Maslow. Part of
 the purpose of a course like this (you find out, it's never said to
